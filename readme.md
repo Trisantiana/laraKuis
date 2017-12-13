@@ -11,6 +11,7 @@
 - git clone https://github.com/Trisantiana/laraKuis.git 'Kuis'
 - cd Kuis
 - cp `.env.example` `.env`
+- edit konfigurasi database anda di file `.env`
 - `php artisan key:generate`
 - buat database dengan nama kuis di komputer/laptop kalian
 - `php artisan migrate --seed`
