@@ -14,7 +14,7 @@
 - `php artisan key:generate`
 - buat database dengan nama kuis di komputer/laptop kalian
 - `php artisan migrate --seed`
-- jalankan dengan perintah 'php artisan serve'
+- jalankan dengan perintah `php artisan serve`
 
 
 ## About Laravel
